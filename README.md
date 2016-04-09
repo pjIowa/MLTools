@@ -6,11 +6,11 @@ Licensed under the [MIT License](https://opensource.org/licenses/MIT)
 Includes:
 
 
-| File                 | Model                           |
-|:-------------------- |:------------------------------- |
-| gradDescent.cpp      | Logistic regression             |
-| neuralNet.cpp        | 1 hidden layer neural network   |
-| rbm.cpp              | Restricted boltzmann machine    |
+| File                    | Model                           |
+|:----------------------- |:------------------------------- |
+| logisticRegression.cpp  | Logistic regression             |
+| neuralNet.cpp           | 1 hidden layer neural network   |
+| rbm.cpp                 | Restricted boltzmann machine    |
 
 ## Install Libaries on Mac
 
